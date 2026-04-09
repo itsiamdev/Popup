@@ -117,6 +117,3 @@ Modify transition properties in `style.css`:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Author
-
-**iam269** - [GitHub Profile](https://github.com/iam269)
