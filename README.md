@@ -13,7 +13,7 @@ A modern, responsive web application showcasing an elegant popup modal functiona
 
 ## Live Demo
 
-Experience the popup in action: [https://iam269.github.io/Popup/](https://iam269.github.io/Popup/)
+Experience the popup in action: [https://itsiamdev.github.io/Popup/](https://itsiamdev.github.io/Popup/)
 
 ## Technologies Used
 
